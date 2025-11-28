@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>Upgrading my Backend stack<br>👯 I’m looking to collaborate on<br>Modern web apps (Next/ MERN)<br>Open-source tools<br>🌱 I’m currently learning<br>Advanced backend concepts<br>Devops<br>System design basics<br>
+🔭 I’m currently working on: <br>Upgrading my Backend stack<br>👯 I’m looking to collaborate on:<br>Modern web apps (Next/ MERN)<br>Open-source tools<br>🌱 I’m currently learning:<br>Advanced backend concepts<br>Devops<br>System design basics<br>
 
 
 ## 🌐 Socials:
