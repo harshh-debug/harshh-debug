@@ -7,7 +7,7 @@ A passionate Full-stack developer who loves building scalable systems and modern
 ## 💫 About Me
 <img align="right" alt="Coding" width="400" style="margin-top: -20px;" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-🌱 **Currently learning:**  
+🌱 **Currently learning:**
 - Advanced backend concepts
 - DevOps
 - System design basics
@@ -15,12 +15,14 @@ A passionate Full-stack developer who loves building scalable systems and modern
 </div>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshcode09) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshcode09)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/harsh_debug)
 
 # 💻 Tech Stack
 
 <p align="left">
-  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -43,12 +45,10 @@ A passionate Full-stack developer who loves building scalable systems and modern
 
 </p>
 
-
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=harshh-debug&theme=github_dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=harshh-debug&theme=github_dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
 
-![](https://streak-stats.demolab.com?user=harshh-debug&theme=github-dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com?user=harshh-debug&theme=github-dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshh-debug&theme=github_dark&hide_border=false&layout=compact)
-
